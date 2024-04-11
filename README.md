@@ -19,4 +19,6 @@ até o final do curso.
 
 ### Módulos
 - Módulo 1: Conceito de DevOps pela AWS (Cultura, Ferramentas e Práticas)
-- Módulo 2: Redes de Computadores 
+- Módulo 2: Redes de Computadores
+- Módulo 3: Aplicativo de 12 Fatores (12 Factor App)
+- Módulo 4: Linux e Shell Scripting
