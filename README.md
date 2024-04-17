@@ -22,3 +22,4 @@ até o final do curso.
 - Módulo 2: Redes de Computadores
 - Módulo 3: Aplicativo de 12 Fatores (12 Factor App)
 - Módulo 4: Linux e Shell Scripting
+- Módulo 5: Shell Scripting 
