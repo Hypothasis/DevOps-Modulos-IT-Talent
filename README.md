@@ -23,3 +23,5 @@ até o final do curso.
 - Módulo 3: Aplicativo de 12 Fatores (12 Factor App)
 - Módulo 4: Linux e Shell Scripting
 - Módulo 5: Shell Scripting e Docker
+- Módulo 6: Conteinerização
+- Módulo 7: Hackathon 1
