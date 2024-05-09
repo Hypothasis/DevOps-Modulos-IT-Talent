@@ -25,3 +25,5 @@ até o final do curso.
 - Módulo 5: Shell Scripting e Docker
 - Módulo 6: Conteinerização
 - Módulo 7: Hackathon 1
+- Módulo 8: Github Actions
+- Módulo 9: Jenkins
