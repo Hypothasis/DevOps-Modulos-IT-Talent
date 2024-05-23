@@ -1,3 +1,6 @@
+# Hackathon 1
+O intuito desse hackathon 1 ẃé rodarmos uma aplicação com imagem docker, no docker de forma simples, acessar nossa aplicação no google chrome e finalizar essa tarefa com exito.
+
 ## WordPress with MySQL
 This example defines one of the basic setups for WordPress. More details on how this works can be found on the official [WordPress image page](https://hub.docker.com/_/wordpress).
 
