@@ -29,3 +29,4 @@ até o final do curso.
 - Módulo 9: [Jenkins](https://github.com/Hypothasis/DevOps-Modulos-IT-Talent/tree/main/Modulos/Modulo%209)
 - Módulo 10: [Hackathon 2](https://github.com/Hypothasis/Hackathon-2)
 - Módulo 11: [Nuvem 1 (AWS)](https://github.com/Hypothasis/DevOps-Modulos-IT-Talent/tree/main/Modulos/Modulo%2011)
+- Módulo 12: [Nuvem 2 (AWS Zonas, Regiões e EC2)](https://github.com/Hypothasis/DevOps-Modulos-IT-Talent/tree/main/Modulos/Modulo%2012)
