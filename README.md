@@ -30,3 +30,5 @@ até o final do curso.
 - Módulo 10: [Hackathon 2](https://github.com/Hypothasis/Hackathon-2)
 - Módulo 11: [Nuvem 1 (AWS)](https://github.com/Hypothasis/DevOps-Modulos-IT-Talent/tree/main/Modulos/Modulo%2011)
 - Módulo 12: [Nuvem 2 (AWS Zonas, Regiões e EC2)](https://github.com/Hypothasis/DevOps-Modulos-IT-Talent/tree/main/Modulos/Modulo%2012)
+- Módulo 13: [Nuvem 3 (AWS VPC, Sub-Redes, Gateway e NAT)](https://github.com/Hypothasis/DevOps-Modulos-IT-Talent/tree/main/Modulos/Modulo%2013)
+- Módulo 14: [Nuvem 4 (Kubernetes e suas Características)](https://github.com/Hypothasis/DevOps-Modulos-IT-Talent/tree/main/Modulos/Modulo%2014)
