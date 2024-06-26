@@ -33,4 +33,4 @@ até o final do curso.
 - Módulo 13: [Nuvem 3 (AWS VPC, Sub-Redes, Gateway e NAT)](https://github.com/Hypothasis/DevOps-Modulos-IT-Talent/tree/main/Modulos/Modulo%2013)
 - Módulo 14: [Orquestração 1 (Kubernetes e suas Características)](https://github.com/Hypothasis/DevOps-Modulos-IT-Talent/tree/main/Modulos/Modulo%2014)
 - Módulo 15: [Orquestração 2 (Pods e Kubernetes)](https://github.com/Hypothasis/DevOps-Modulos-IT-Talent/tree/main/Modulos/Modulo%2015)
-- Módulo 16: Hackathon 3
+- Módulo 16: [Hackathon 3](https://github.com/Hypothasis/Hackathon3-GithubActions-S3)
