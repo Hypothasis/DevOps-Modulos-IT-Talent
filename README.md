@@ -35,3 +35,6 @@ até o final do curso.
 - Módulo 15: [Orquestração 2 (Pods e Kubernetes)](https://github.com/Hypothasis/DevOps-Modulos-IT-Talent/tree/main/Modulos/Modulo%2015)
 - Módulo 16: [Hackathon 3](https://github.com/Hypothasis/Hackathon3-GithubActions-S3)
 - Módulo 17: [Infraestrutura como Código (Terraform)](https://github.com/Hypothasis/DevOps-Modulos-IT-Talent/tree/main/Modulos/Modulo%2017)
+- Módulo 18: [Observabilidade e Monitoramento](https://github.com/Hypothasis/DevOps-Modulos-IT-Talent/tree/main/Modulos/Modulo%2018)
+- Módulo 19: Hackathon 4
+- Módulo 20: Encerramento
